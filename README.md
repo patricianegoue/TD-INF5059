@@ -8,6 +8,9 @@ le langage de programmation utiliser est python
 #DEPENDANCES
 S'assurer d'avoir python installer dans sa machine 
 
+#utilisation 
+
+
 
 
 
