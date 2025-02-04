@@ -1,1 +1,11 @@
-# TD-INF5059
+# TD-INF5059 : SEARCH BASED SOFTWARE ENGINNERING 
+
+TD 00: Advanced Algorithms and Data Structures
+
+ce TD a 5 exercices 
+le langage de programmation utiliser est python 
+
+
+
+
+
