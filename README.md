@@ -7,7 +7,7 @@ ce TD contient 5 exercices
 
 ## OUTILS UTILISES 
 
-  -language de programmation python
+  -language de programmation : python
   
   -editeur de texte : Vs code
 
