@@ -5,15 +5,27 @@ TD 00: Advanced Algorithms and Data Structures
 ce TD a 5 exercices 
 le langage de programmation utiliser est python 
 
-#DEPENDANCES
+# DEPENDANCES
 
 S'assurer d'avoir python installer dans sa machine 
 
-#utilisation 
+# UTILISATION 
 
 tapez la commande :
 
-git clone 
+git clone https://github.com/patricianegoue/TD-INF5059.git
+
+
+pour executer les exercices :
+
+se mettre  sur le dossier de l'exercice et executer la commande
+
+python nom_du_fichier_python.py
+
+
+# RAPPORT
+
+pour acceder au rapport de ce projet : https://docs.google.com/document/d/1aCdCjtbjRPJ-JkCAoSgQC0OGtEwd7gTLe8Q_4HGKuC4/edit?usp=sharing
 
 
 
