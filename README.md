@@ -6,6 +6,7 @@ ce TD contient 5 exercices
 ## OUTILS UTILISES 
 
   -language de programmation python
+  
   -editeur de texte : Vs code
 
 # DEPENDANCES
@@ -30,7 +31,8 @@ se mettre  sur le dossier de l'exercice et executer la commande suivante
 
 # RAPPORT
 
-pour acceder au rapport de ce projet cliquez [ici] (https://docs.google.com/document/d/1aCdCjtbjRPJ-JkCAoSgQC0OGtEwd7gTLe8Q_4HGKuC4/edit?usp=sharing)
+pour acceder au rapport de ce projet cliquez [ici] 
+(https://docs.google.com/document/d/1aCdCjtbjRPJ-JkCAoSgQC0OGtEwd7gTLe8Q_4HGKuC4/edit?usp=sharing)
 
 
 
